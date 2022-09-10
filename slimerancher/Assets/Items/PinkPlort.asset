@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e213d0cb7ec99e43b014cd457372412, type: 3}
+  m_Name: PinkPlort
+  m_EditorClassIdentifier: 
+  Name: Pink Plort
+  Picture: {fileID: 21300000, guid: eb4151eab003d1b459e3ef95bb19f099, type: 3}
+  ItemObject: {fileID: 4476737847937512311, guid: ce67720606c950245a8dc0a20ccfae85, type: 3}
